@@ -1,2 +1,0 @@
-# cartilla
-Created with CodeSandbox

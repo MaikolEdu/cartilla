@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+.table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 5px;
+  margin-top: 10px;
+}
+.rectangulo-padre {
+  display: table-row;
+}
+
+.rectangulo-item {
+  display: table-cell;
+  border: 1px solid #000;
+  vertical-align: middle;
+  text-align: center;
+  width: 100px;
+  padding: 2px;
+}
